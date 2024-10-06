@@ -1,0 +1,7 @@
+promptflow
+promptflow[executable]
+promptflow-tools
+promptflow-azure
+azure.search.documents
+numpy<2
+openai<=1.44.1
