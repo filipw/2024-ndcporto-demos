@@ -37,7 +37,6 @@ extra_body = {
             "key": AZURE_AI_SEARCH_KEY,
             "type": "api_key"
         },
-        "key": AZURE_AI_SEARCH_KEY,
         "index_name": AZURE_AI_SEARCH_INDEX_NAME,
         "top_n_documents": 3,
         "query_type": "vector",
