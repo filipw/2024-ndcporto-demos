@@ -167,3 +167,4 @@ rag-voice/Strathweb.Samples.Realtime.Rag/bin/
 rag-voice/Strathweb.Samples.Realtime.Rag/obj/
 .idea/
 rag-voice/Strathweb.Samples.Realtime.Rag/assistant-response.pcm
+rag-voice/Strathweb.Samples.Realtime.Rag/x-assistant-response.pcm
