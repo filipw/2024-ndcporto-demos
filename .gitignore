@@ -163,3 +163,7 @@ cython_debug/
 .DS_Store
 .promptflow/
 .vscode/
+rag-voice/Strathweb.Samples.Realtime.Rag/bin/
+rag-voice/Strathweb.Samples.Realtime.Rag/obj/
+.idea/
+rag-voice/Strathweb.Samples.Realtime.Rag/assistant-response.pcm
